@@ -19,11 +19,14 @@
     <br>
     <br>
   </p>
+  
 </div>
 
-<!-- LIST -->
-# List of Problems finished
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/franciscotrianto?theme=dark&font=Caudex)
  
+## Algorithms
+
+- Sliding Window
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -24,9 +24,15 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/franciscotrianto?theme=dark&font=Caudex)
  
+##  Techniques
+
+- Recurtion
+- Memoization (Top-down Approach)
+- Tabulation (Bottom-up Approach)
+
 ## Algorithms
-
+  
+- Binary Search
 - Sliding Window
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

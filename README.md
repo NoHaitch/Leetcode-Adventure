@@ -29,6 +29,7 @@
 - Recurtion
 - Memoization (Top-down Approach)
 - Tabulation (Bottom-up Approach)
+- Monotonic Stack
 
 ## Algorithms
   

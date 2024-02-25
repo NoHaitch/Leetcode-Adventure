@@ -12,9 +12,9 @@
     <!-- <img src="" alt="Project Logo // Team Picture // etc">
     <br/>
     <br/> -->
-    <a href="#">Report Fault</a>
+    <a href="https://github.com/NoHaitch/Leetcode-Adventure/issues">Report Fault</a>
     ·
-    <a href="#">Request Problem</a>
+    <a href="https://github.com/NoHaitch/Leetcode-Adventure/issues">Request Problem</a>
     <br>
     <br>
     <br>
